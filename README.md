@@ -12,3 +12,10 @@ Framework/Simulator| Resources | Description
 ------------ | ------------- | -------------
 Robot Operating System(ROS) | http://wiki.ros.org/,  http://wiki.ros.org/ROS/Tutorials/ | a flexible framework for writing robot software
 Gazebo | http://gazebosim.org/tutorials | A 3D robotics simulator that calculates physics, generates sensor data and provides convenient interfaces.
+
+##Present Learning and Contribution
+1. Re-visiting the concepts of python, everything from basic syntax to loops, basic library functionalities and their working.
+2. Followed by the installation of Virtual machine in the system, so as to facilitate the installation and working of ubuntu 18.04.
+3. After having installed virtual machine, introduction to ubuntu and getting familiar with its working was facilitated. Going deeper in which the terminal syntax was learnt and      used to install the Robotic Operating system. 
+4. Following multiple varied resources of information to grasp the basics of robot operating system starting with obstacle avoidance and vehicle modeling involved, the learning still continues to brew in process. 
+ 
